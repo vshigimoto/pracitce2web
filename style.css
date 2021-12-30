@@ -1,0 +1,42 @@
+.header{
+  margin-bottom: 10px;
+  background-color: pink;
+  height: 100px;
+}
+.content{
+  width: 100%;
+  float: left;
+  background-color: 	#D3D3D3;
+  min-height: 300px;
+}
+.brd {
+  width: 100%;
+    border: 4px black;
+    border-style: solid;
+    border-color: red;
+    background: pink;
+    padding: 10px;
+   }
+   .picture {
+       margin: 25%;
+       background: pink;
+       padding: 50px;
+       margin-bottom: 10px;
+       position: static;
+        box-sizing: border-box;
+   }
+.display{
+   border: 1px solid black;
+   border-bottom: none;
+   padding: 3px;
+   display: inline;
+   background: #efecdf;
+   font-weight: bold;
+   font-size: 90%;
+   margin: 0;
+   white-space: nowrap; 
+ }
+ .inline{
+   display: inline;
+   width: 100%;
+ }
